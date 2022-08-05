@@ -1,0 +1,24 @@
+[
+    {
+        "cnj": "5001682-88.2020.8.13.0672",
+        "nome_autor": "José Maria",
+        "nome_reu": "João Leite",
+        "tribunal_origem": "Algum",
+        "data_inicio": "18/10/2021",
+        "movimentacoes": {
+            "data": "30/11/2021",
+            "descricao": ""
+        }
+    },
+    {
+        "cnj": "111111-88.2020.8.13.0672",
+        "nome_autor": "José Maria",
+        "nome_reu": "João Leite",
+        "tribunal_origem": "Algum",
+        "data_inicio": "18/10/2021",
+        "movimentacoes": {
+            "data": "30/11/2021",
+            "descricao": ""
+        }
+    }
+]
