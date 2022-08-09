@@ -20,9 +20,13 @@
         "nome_reu": "João Leite",
         "tribunal_origem": "Algum",
         "data_inicio": "18/10/2021",
-        "movimentacoes": {
+        "movimentacoes": [{
             "data": "30/11/2021",
-            "descricao": ""
-        }
+            "descricao": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+            "data": "10/11/2021",
+            "descricao": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+        }]
     }
 ]
