@@ -1,6 +1,5 @@
 import express, {json} from 'express';
 import cors from 'cors';
-import chalk from 'chalk';
 import dotenv from 'dotenv';
 import dataRoute from './routes/dataRoute.js'
 

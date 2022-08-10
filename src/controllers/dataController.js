@@ -31,5 +31,3 @@ export default class dataController{
         }
     };
 }
-
-//https://consulta-processual.herokuapp.com/
